@@ -1,0 +1,19 @@
+{
+  "name": "pro1",
+  "version": "1.0.0",
+  "description": "My unreal Nuxt.js project",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "nuxt": "^2.0.0",
+    "vue-sweetalert2": "^3.0.1"
+  },
+  "devDependencies": {}
+}
